@@ -35,7 +35,7 @@ body {
     display: none;
 }
 
-.menu-list-default:hover, .menu-list-default:active, .menu-list-selected {
+.menu-list-default:hover, .menu-list-selected {
     color: #e8e814;
     cursor: default;
     border-bottom: 4px solid #e8e814;
